@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	font-size: 1.3em;
+	font-family: Helvetica;
+	height: 100vh;
+	background-color: #0B0C10;
+	color: #C5C6C7;
+}
+
+h1, h2, h3 {
+	color: #66FCF1;
+}
+
+img.soursopImg {
+	width: 400px;
+}
+
+/* Class to make unordered list centered and also keep text left align in the center. */
+ul.ulist {
+	display: inline-block;
+	text-align: left;
+}
+
+/* Class to make ordered list centered and also keep text left align in the center. */
+ol.olist {
+	display: inline-block;
+	text-align: left;
+}
